@@ -33,8 +33,6 @@ span.anticon.anticon-menu-fold.trigger {
 }
 
 .ant-layout-footer {
-  padding: 24px 50px;
-  color: #fff;
-  font-size: 14px;
-  background: #1890ff;
+  color: #fff !important;
+  background: #1890ff !important;
 }
