@@ -7,7 +7,7 @@ about the artist and their events.
 ## Installation and Setup Instructions
 
 Clone down this repository link.
-https://github.com/ArslanAkhtar/KT-Search-Assignment
+https://github.com/ArslanAkhtar/Search-Assignment
 You will need `node` and `npm` installed globally on your machine.  
 Installation:
 `npm install`  
